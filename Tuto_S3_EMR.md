@@ -1,4 +1,4 @@
-# S3 et EMR : Création d'un compartiment de stockage et instanciation d'un cluster EMR
+# S3 et EMR : Création d'un compartiment de stockage S3 et instanciation d'un cluster EMR
 
 ## Etape 1 : Création d'une paire de clé
 
