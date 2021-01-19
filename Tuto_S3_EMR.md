@@ -101,7 +101,7 @@ Pour ce faire, rendez vous dans l'onglet <font color="purple">***Autorisations**
 
 Il vous suffit maintenant de renseigner l'ID canonique du compte AWS auquel donner les droits d'accès et cocher l'ensemble des cases avant d'<font color="purple">***enregistrer les modifications***</font>.
 
-| <font color="blue">Mais comment connaitre son ID canonique ?</font> Rendez vous dans un compartiment S3 qui vous appartient, onglet <font color="purple">***Autorisations***</font>, rubrique  <font color="purple">***Liste de contrôle d'accès (ACL)***</font>. Votre ID canonique est alors visible : <p align="center"><img src="Tutoriel_14.png" width="900" /></p>|
+| <font color="blue">Mais comment connaitre son ID canonique ?</font> Rendez vous dans un compartiment S3 qui vous appartient, onglet <font color="purple">***Autorisations***</font>, rubrique  <font color="purple">***Liste de contrôle d'accès (ACL)***</font>. Votre ID canonique est alors visible : <p align="center"><img src="https://github.com/MathiasNourry/Tutoriel_AWS/blob/main/S3_EMR_pictures/Tutoriel_14.png" width="900" /></p>|
 | --- |
 ## Etape 4 : Création de l'instance EMR
 
