@@ -118,7 +118,7 @@ A la suite, configurez la composition du cluster. On optera ici pour 3 machines 
   <img src="https://github.com/MathiasNourry/Tutoriel_AWS/blob/main/S3_EMR_pictures/Tutoriel_16.png" width="600" />
 </p>
 
-<font color="green">***Votre cluster EMR est créer .. mais pas totalement prêt !***</font>
+<font color="green">***Votre cluster EMR est créé .. mais pas totalement prêt !***</font>
 
 Une fois votre cluster démarré (cela peut prendre plusieurs minutes), il est nécessaire de paramétrer les règles de connection du Master Node pour autoriser les connections en SSH. Pour cela, depuis l'onglet <font color="purple">***Récapitulatif***</font> de votre cluster, rendez vous dans <font color="purple">***Groupes de sécurité pour le principal***</font> en bas de page. Sélectionnez ensuite le groupe <font color="purple">***ElasticMapReduce-master***</font> et <font color="purple">***Règles entrantes***</font> puis <font color="purple">***Modifier les règles entrantes***</font> comme suit :
 <p align="center">
